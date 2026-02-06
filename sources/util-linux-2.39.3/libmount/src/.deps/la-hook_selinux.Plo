@@ -1,0 +1,4 @@
+libmount/src/la-hook_selinux.lo: libmount/src/hook_selinux.c \
+ /usr/include/stdc-predef.h config.h
+/usr/include/stdc-predef.h:
+config.h:

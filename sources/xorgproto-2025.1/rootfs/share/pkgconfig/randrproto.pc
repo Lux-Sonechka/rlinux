@@ -1,0 +1,7 @@
+prefix=/storage/rlinux/sources/xorgproto-2025.1/rootfs
+includedir=${prefix}/include
+
+Name: RandrProto
+Description: Randr extension headers
+Version: 1.6.0
+Cflags: -I${includedir}

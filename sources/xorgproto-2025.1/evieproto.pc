@@ -1,0 +1,7 @@
+prefix=/storage/rlinux/sources/xorgproto-2025.1/rootfs
+includedir=${prefix}/include
+
+Name: EvIEExt
+Description: EvIE extension headers
+Version: 1.1.1
+Cflags: -I${includedir}

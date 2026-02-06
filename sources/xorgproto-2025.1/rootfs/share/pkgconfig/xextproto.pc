@@ -1,0 +1,7 @@
+prefix=/storage/rlinux/sources/xorgproto-2025.1/rootfs
+includedir=${prefix}/include
+
+Name: XExtProto
+Description: XExt extension headers
+Version: 7.3.0
+Cflags: -I${includedir}

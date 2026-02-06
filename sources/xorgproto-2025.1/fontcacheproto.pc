@@ -1,0 +1,7 @@
+prefix=/storage/rlinux/sources/xorgproto-2025.1/rootfs
+includedir=${prefix}/include
+
+Name: FontcacheProto
+Description: Fontcache extension headers
+Version: 0.1.3
+Cflags: -I${includedir}

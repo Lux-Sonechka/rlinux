@@ -1,0 +1,5 @@
+# /etc/profile
+export PATH="usr/bin:/bin"
+
+echo "Welcome to your own linux system!/n"
+echo "Just don't break anything, okay? Good luck! It's all yours!" 

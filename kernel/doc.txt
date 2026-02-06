@@ -1,0 +1,7 @@
+### About /kernel:
+config - Default kernel configs
+System.map - RAM map
+vmlinuz - VGA-only shell
+vmlinuz-debug - VGA-only shell but with a lot of debug logs.
+vmlinuz-tty = Supports TTY, but uses only VESA resolutions.
+vmlinuz-tty2 - Supports TTY and GPU drivers. (default) (recommended)

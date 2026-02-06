@@ -1,0 +1,13 @@
+###########################################################
+######### Tiny ocumentation file about Riot Linux #########
+###########################################################
+
+------------  Default libraries:
+	Bash as default shell,
+	Coreutils
+	Linux Utils
+	Xorg libs (libX-like)
+	(no-xorg included)
+	figlet
+	lolcat (coming soon)
+	ncurses (coming soon)

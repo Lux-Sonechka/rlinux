@@ -1,0 +1,7 @@
+prefix=/storage/rlinux/sources/xorgproto-2025.1/rootfs
+includedir=${prefix}/include
+
+Name: XF86MiscProto
+Description: XF86Misc extension headers
+Version: 0.9.3
+Cflags: -I${includedir}
