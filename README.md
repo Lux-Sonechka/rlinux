@@ -10,7 +10,7 @@ The **Riot Linux distro** was made focusing on:
 - Providing a simple and well-documented operational system
 - Modern and updated tools
 - Open to modifying
-- TTY interface
+- TTY interface (GPU drivers included)
 
 ---
 
@@ -30,7 +30,7 @@ The **Riot Linux distro** was made focusing on:
 All documentation is within the system /doc folder.
 ---
 
-## 📜 Licença
+## 📜 License
 This project uses [GNU License](LICENSE).
 
 ---
