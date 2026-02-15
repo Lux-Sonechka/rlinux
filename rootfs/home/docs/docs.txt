@@ -9,5 +9,16 @@
 	Xorg libs (libX-like)
 	(no-xorg included)
 	figlet
-	lolcat (coming soon)
-	ncurses (coming soon)
+	lolcat
+	riot-utils
+
+
+
+------------- Riot Utils:
+	Riot Linux's exclusive utilities.
+	Does ncurses and other libs work
+
+	Commands:
+	clear - Clears screen.
+	reset - Resets terminal
+	rfetch - Shows Riot Linux's custom fetch.

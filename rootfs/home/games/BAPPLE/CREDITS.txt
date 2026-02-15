@@ -1,0 +1,2 @@
+Compiled from source to binary using pyinstaller.
+Source from https://github.com/Chion82/ASCII_Bad_Apple.

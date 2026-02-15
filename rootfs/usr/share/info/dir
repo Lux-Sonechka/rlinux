@@ -17,6 +17,9 @@ File: dir,	Node: Top	This is the top of the INFO tree
 Basics
 * Bash: (bash).                 The GNU Bourne-Again SHell.
 
+Editors
+* nano: (nano).                 Small and friendly text editor.
+
 GNU C library functions and macros
 * __fbufsize: (libc)Controlling Buffering.
 * __flbf: (libc)Controlling Buffering.
