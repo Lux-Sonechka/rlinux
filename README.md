@@ -19,7 +19,7 @@ The **Riot Linux distro** was made focusing on:
 - (GCC compiler required)
 ---
 
-## 🔧 Requisitos
+## 🔧 Requirements:
 - x86_64 archtecture
 - RAM: 1 GB
 - Storage: 2 GB
@@ -27,7 +27,7 @@ The **Riot Linux distro** was made focusing on:
 ---
 
 ## 📚 Documentation
-All documentation is within the system /doc folder.
+All documentation is within the system /home/doc folder.
 ---
 
 ## 📜 License
